@@ -6,6 +6,9 @@ from sqlalchemy import create_engine
 from bs4 import BeautifulSoup
 
 
+# Created by Rahul Vijayakumar
+# For more info check my blog here : https://www.anygeeks.com/wiki-search/
+
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
